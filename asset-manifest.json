@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ServiYa/static/css/main.709e93ce.chunk.css",
+    "main.js": "/ServiYa/static/js/main.efab994e.chunk.js",
+    "main.js.map": "/ServiYa/static/js/main.efab994e.chunk.js.map",
+    "runtime-main.js": "/ServiYa/static/js/runtime-main.77a59eda.js",
+    "runtime-main.js.map": "/ServiYa/static/js/runtime-main.77a59eda.js.map",
+    "static/js/2.7d7d29ac.chunk.js": "/ServiYa/static/js/2.7d7d29ac.chunk.js",
+    "static/js/2.7d7d29ac.chunk.js.map": "/ServiYa/static/js/2.7d7d29ac.chunk.js.map",
+    "index.html": "/ServiYa/index.html",
+    "precache-manifest.4d9d7eeba9a4ea5892ef48775647dfb1.js": "/ServiYa/precache-manifest.4d9d7eeba9a4ea5892ef48775647dfb1.js",
+    "service-worker.js": "/ServiYa/service-worker.js",
+    "static/css/main.709e93ce.chunk.css.map": "/ServiYa/static/css/main.709e93ce.chunk.css.map",
+    "static/js/2.7d7d29ac.chunk.js.LICENSE.txt": "/ServiYa/static/js/2.7d7d29ac.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/ServiYa/static/media/CocoGothic_trial.1a440430.ttf",
+    "static/media/baker.svg": "/ServiYa/static/media/baker.34dcf3a0.svg",
+    "static/media/carpenter.svg": "/ServiYa/static/media/carpenter.24e0ccf0.svg",
+    "static/media/cuadrito.svg": "/ServiYa/static/media/cuadrito.5cbad09b.svg",
+    "static/media/electrician.svg": "/ServiYa/static/media/electrician.fcac64b7.svg",
+    "static/media/electricista.jpg": "/ServiYa/static/media/electricista.bf446128.jpg",
+    "static/media/logoicon.svg": "/ServiYa/static/media/logoicon.0ae0725e.svg",
+    "static/media/loguito.svg": "/ServiYa/static/media/loguito.b99a10be.svg",
+    "static/media/mechanic.svg": "/ServiYa/static/media/mechanic.653be9a1.svg",
+    "static/media/servicarpintero.jpg": "/ServiYa/static/media/servicarpintero.d8817d7d.jpg",
+    "static/media/servimecanico.jpg": "/ServiYa/static/media/servimecanico.c617801b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77a59eda.js",
+    "static/js/2.7d7d29ac.chunk.js",
+    "static/css/main.709e93ce.chunk.css",
+    "static/js/main.efab994e.chunk.js"
+  ]
+}
