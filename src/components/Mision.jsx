@@ -6,7 +6,7 @@ import servicarpintero from '../assets/img/servicarpintero.jpg'
          <div className=" row contenedor__mision " >
              <div className="mision col-6 ">
                 <h1 className="mision__title">Misión</h1>
-                <h3>Te ahorraremos el tiempo de salir de casa y buscar dicho servicio que requieras, ¡AQUI LO PUEDES ENCONTRAR! </h3>
+                <h3 className="mision__text">Te ahorraremos el tiempo de salir de casa y buscar dicho servicio que requieras, ¡AQUI LO PUEDES ENCONTRAR! </h3>
 
              </div>
              <div className="fotos__mision col-6">

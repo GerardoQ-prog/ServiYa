@@ -3,7 +3,7 @@ import logoservi from '../assets/img/loguito.svg'
 const Navbar = () => {
     return ( 
         <nav class="navbar navbar-expand-lg navbar-light menu">
-            <img src={logoservi} className="img-fluid"></img>
+            <img src={logoservi} className="img-fluid menu__logo"></img>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
