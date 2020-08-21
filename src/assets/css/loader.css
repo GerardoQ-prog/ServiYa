@@ -1,0 +1,68 @@
+
+.loader{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+.job1,.job2,.job3,.job4,.job4,.job5{
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    opacity: 0;
+    
+}
+.job1{
+    animation: aparecer 0.5s;
+    animation-delay: 0s;
+}
+.job2{
+    animation:aparecer  0.5s ;
+    animation-delay: 0.5s;
+}
+.job3{
+    animation:aparecer  0.5s ;
+    animation-delay: 1s;
+}
+.job4{
+    animation:aparecer  0.5s ;
+    animation-delay: 1.5s;
+}
+.job5{
+    animation:aparecer1  0.5s ;
+    animation-delay: 2.0s;
+}
+
+@keyframes aparecer{
+    from{
+
+        opacity: 1;
+    }
+    to{
+
+        width: 200px;
+        height: 200px;
+        opacity: 0;
+        
+    }
+}
+@keyframes aparecer1{
+    from{
+        opacity: 1;
+    }
+    to{
+
+        width: 200px;
+        height: 200px;
+        opacity: 1;
+        
+    }
+}
+

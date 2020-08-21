@@ -1,0 +1,54 @@
+@import 'loader.css';
+@import 'nosotros.css';
+@import 'menu.css';
+@import 'mision.css';
+@import 'slider.css';
+:root{
+    --color-primary:#f39200;
+    --color-secondary:#1a82c5;
+    --color-terciary:#0b65ae;
+}
+
+
+*,html,body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Coco';
+}
+
+a{
+    text-decoration: none;
+}
+.home{
+    animation-duration: 3.5s;
+    animation-fill-mode: forwards;
+    
+    animation-name: home;
+    
+}
+@keyframes home {
+    0% {
+        
+        opacity: 0;
+    }
+    25%{
+        opacity: 0;
+    }
+    50%{
+        opacity: 0;
+    }
+    75%{
+        opacity: 0;
+    }
+    100% {
+        
+        opacity: 1;
+    }
+}
+
+@font-face{
+    font-family:'Coco';
+    src: url('../fonts/CocoGothic_trial.ttf');
+}

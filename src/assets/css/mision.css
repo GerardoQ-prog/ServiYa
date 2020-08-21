@@ -1,0 +1,49 @@
+.contenedor__mision {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.mision{
+    background: radial-gradient(#1a82c5,#0b65ae);
+    padding: 100px;
+    color: white;
+}
+.mision__title{
+    font-size: 60px;
+}
+.fotos__mision{
+    background: var(--color-primary);
+}
+.foto1, .foto2{
+    position: absolute;
+    width: 20%;
+    top:0;
+    bottom:0;
+    right: 0;
+    left: 0;
+    margin:auto;
+    
+   
+}
+.foto1{
+    animation: servifoto 4s infinite;
+    animation-fill-mode: forwards;
+    animation-delay: 0s;
+}
+.foto2{
+    animation:servifoto  4s infinite;
+    animation-fill-mode: forwards;
+    animation-delay: 6.0s;
+}
+
+@keyframes servifoto{
+    from{
+        opacity: 1;
+    }
+    to{
+
+        width: 60%;
+        opacity: 0;
+        
+    }
+}
