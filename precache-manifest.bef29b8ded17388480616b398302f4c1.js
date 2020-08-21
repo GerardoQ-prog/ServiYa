@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da1703b1f700f4c0b3b356a9d327fd5c",
+    "revision": "64c70a800492c8bc458ec4572df3cb60",
     "url": "/ServiYa/index.html"
   },
   {
-    "revision": "7c69d61bb7b0ab6a50c1",
-    "url": "/ServiYa/static/css/main.709e93ce.chunk.css"
+    "revision": "40660ff2230c852c5695",
+    "url": "/ServiYa/static/css/main.f74bf137.chunk.css"
   },
   {
     "revision": "87b3061a21abb9f8c30a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ServiYa/static/js/2.7d7d29ac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c69d61bb7b0ab6a50c1",
-    "url": "/ServiYa/static/js/main.efab994e.chunk.js"
+    "revision": "40660ff2230c852c5695",
+    "url": "/ServiYa/static/js/main.899ad406.chunk.js"
   },
   {
     "revision": "28943224f6c9344f73b6",

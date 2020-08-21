@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ServiYa/static/css/main.709e93ce.chunk.css",
-    "main.js": "/ServiYa/static/js/main.efab994e.chunk.js",
-    "main.js.map": "/ServiYa/static/js/main.efab994e.chunk.js.map",
+    "main.css": "/ServiYa/static/css/main.f74bf137.chunk.css",
+    "main.js": "/ServiYa/static/js/main.899ad406.chunk.js",
+    "main.js.map": "/ServiYa/static/js/main.899ad406.chunk.js.map",
     "runtime-main.js": "/ServiYa/static/js/runtime-main.77a59eda.js",
     "runtime-main.js.map": "/ServiYa/static/js/runtime-main.77a59eda.js.map",
     "static/js/2.7d7d29ac.chunk.js": "/ServiYa/static/js/2.7d7d29ac.chunk.js",
     "static/js/2.7d7d29ac.chunk.js.map": "/ServiYa/static/js/2.7d7d29ac.chunk.js.map",
     "index.html": "/ServiYa/index.html",
-    "precache-manifest.4d9d7eeba9a4ea5892ef48775647dfb1.js": "/ServiYa/precache-manifest.4d9d7eeba9a4ea5892ef48775647dfb1.js",
+    "precache-manifest.bef29b8ded17388480616b398302f4c1.js": "/ServiYa/precache-manifest.bef29b8ded17388480616b398302f4c1.js",
     "service-worker.js": "/ServiYa/service-worker.js",
-    "static/css/main.709e93ce.chunk.css.map": "/ServiYa/static/css/main.709e93ce.chunk.css.map",
+    "static/css/main.f74bf137.chunk.css.map": "/ServiYa/static/css/main.f74bf137.chunk.css.map",
     "static/js/2.7d7d29ac.chunk.js.LICENSE.txt": "/ServiYa/static/js/2.7d7d29ac.chunk.js.LICENSE.txt",
     "static/media/main.css": "/ServiYa/static/media/CocoGothic_trial.1a440430.ttf",
     "static/media/baker.svg": "/ServiYa/static/media/baker.34dcf3a0.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.77a59eda.js",
     "static/js/2.7d7d29ac.chunk.js",
-    "static/css/main.709e93ce.chunk.css",
-    "static/js/main.efab994e.chunk.js"
+    "static/css/main.f74bf137.chunk.css",
+    "static/js/main.899ad406.chunk.js"
   ]
 }
